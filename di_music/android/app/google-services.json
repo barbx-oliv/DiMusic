@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80321333290",
+    "project_id": "dimusic-65252",
+    "storage_bucket": "dimusic-65252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80321333290:android:ecd8e6d64602353f785b53",
+        "android_client_info": {
+          "package_name": "com.example.di_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzLtgcy6D9h0Ulpr4dv8x8RuWZw94bZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
